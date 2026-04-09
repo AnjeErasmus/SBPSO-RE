@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19479292.svg)](https://doi.org/10.5281/zenodo.19479292)
+
 # SBPSO-RE: Rule Extraction from Random Forests using Particle Swarm Optimization
 
 ## Overview
